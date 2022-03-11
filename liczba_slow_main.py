@@ -1,6 +1,6 @@
-from plik_def import *
+from liczba_slow_funkcje import *
 
-path = 'C://Users//kamusial//Desktop//rolling_stones.txt'
+path = 'C://Users//kniat//PycharmProjects//wsb_git//wsb_repo//rolling_stones.txt'
 
 text = zapisDanychzPliku(path)
 text = przygotowanie(text)

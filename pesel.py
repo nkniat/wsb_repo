@@ -41,7 +41,6 @@ def sredniwiek():
 ilosc_osob = int(input('Ile jest osob? '))
 tablica_osoby = []
 tablica_wszystkich_osob = []
-tablica_nazwiska = []
 
 #w tablicy wszystkich osób będą mniejsze tablice - jedna dla każdej osoby
 #tablica dla każdej osoby będzie zawierała kolejno: imię, nazwisko, wiek, PESEL
